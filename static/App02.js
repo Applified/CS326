@@ -32,11 +32,21 @@ var MyComponent = function (_React$Component) {
         React.createElement(
           "h1",
           null,
-          "My View 02"
+          "Create Job"
         )
       );
     }
   }]);
+
+  ReactDOM.render(
+    <div>
+      <Button type="primary">Primary</Button>
+      <Button>Default</Button>
+      <Button type="dashed">Dashed</Button>
+      <Button type="danger">Danger</Button>
+    </div>,
+    mountNode
+  );
 
   return MyComponent;
 }(React.Component);
