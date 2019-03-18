@@ -13,8 +13,14 @@ class MyComponent extends React.Component {
 
   render() {
     return (
-      <div>
-        <h1>My View 01</h1>
+      //<div>
+      //  <h1>My View 01</h1>
+      //</div>
+      <div class="topnav">
+      <a class="active" href="#home">Home</a>
+      <a href="#news">News</a>
+      <a href="#contact">Contact</a>
+      <a href="#about">About</a>
       </div>
     );
   }
