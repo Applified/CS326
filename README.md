@@ -8,6 +8,10 @@ Add an overview of your application here.
 
 # Team Members
 Ross Hahn
+Dylan McGoldrick
+Duc Nguyen
+Nabihah Sheikh
+
 
 Add the team member names who are working on this application.
 
