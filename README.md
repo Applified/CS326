@@ -7,6 +7,7 @@ Rename the above with the name of your application.
 Add an overview of your application here.
 
 # Team Members
+Ross Hahn
 
 Add the team member names who are working on this application.
 
