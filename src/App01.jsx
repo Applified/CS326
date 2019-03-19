@@ -14,7 +14,7 @@ class MyComponent extends React.Component {
   render() {
     return (
       <div>
-        <h1>My View Initial view</h1>
+        <h1>My Initial view</h1>
       </div>
     );
   }
