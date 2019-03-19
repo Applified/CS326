@@ -26,33 +26,13 @@ var MyComponent = function (_React$Component) {
   _createClass(MyComponent, [{
     key: "render",
     value: function render() {
-      return (
-        //<div>
-        //  <h1>My View 01</h1>
-        //</div>
+      return React.createElement(
+        "div",
+        null,
         React.createElement(
-          "div",
-          { "class": "topnav" },
-          React.createElement(
-            "a",
-            { "class": "active", href: "#home" },
-            "Home"
-          ),
-          React.createElement(
-            "a",
-            { href: "#news" },
-            "News"
-          ),
-          React.createElement(
-            "a",
-            { href: "#contact" },
-            "Contact"
-          ),
-          React.createElement(
-            "a",
-            { href: "#about" },
-            "About"
-          )
+          "h1",
+          null,
+          "My View Initial view"
         )
       );
     }
