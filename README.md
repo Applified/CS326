@@ -1,5 +1,6 @@
 # Application Name
 
+QuickServer
 Rename the above with the name of your application.
 
 # Overview
